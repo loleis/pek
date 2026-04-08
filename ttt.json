@@ -135,7 +135,7 @@
             "key": "月佬瓜子影视",
             "name": "月佬瓜子影视",
             "type": 4,
-			"jar": "./jar/yt.jar"
+			"jar": "./jar/yt.jar",
             "api": "https://tvbot.ggff.net/guazi",
             "style": {
                 "type": "rect",
