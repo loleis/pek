@@ -143,12 +143,20 @@
 			"order_num": 0,
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/7猫小说[书].js"
 		},
+		{"key":"230ts","name":"爱上你听书网[听]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/230ts_open.js"},
 		{
             "key": "爱玩音乐[听]",
             "name": "爱玩音乐|js[听]",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/爱玩音乐.js"
+        },
+		{
+            "key": "荐片",
+            "name": "荐片|[js]",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/荐片.js"
         },
 		{
             "key": "荐片采集",
