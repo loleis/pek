@@ -2,7 +2,7 @@
 
 {
     "spider": "./lib/bdb.png",
-    
+    "spider": "http://rihou.cc:88/jar/vox.jar;md5;ccbbaf9a8eb24e3c710884cb82b668f2",
     "logo": "./logo.gif",
     "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
     "lives": [
