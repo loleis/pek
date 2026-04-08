@@ -143,7 +143,7 @@
 			"order_num": 0,
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/7猫小说[书].js"
 		},
-		{"key":"230ts","name":"爱上你听书网[听]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/230ts_open.js"},
+		{"key":"230ts","name":"爱上你听书网[听]","type":3,"jar": "./jar/f.jar","api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/230ts_open.js"},
 		{"key":"bookan_book_open","name":"博看[cat]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/MyCatBookan.js"},
 		{"key":"boosj_open","name":"童趣[cat]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/boosj_open.js"},
 {"key":"tuxiaobei_open","name":"兔小贝[cat]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/tuxiaobei_open.js"},
