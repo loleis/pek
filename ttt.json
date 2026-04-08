@@ -957,10 +957,10 @@
             "ext": "./js/凤凰FM.js"
         },
         {
-            "key": "广播迷",
+            "key": "广播迷FM",
             "name": "📻广播迷|js[听]",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js",
             "ext": "./js/广播迷FM.js"
         },
         {
