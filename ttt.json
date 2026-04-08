@@ -135,7 +135,7 @@
 			"key":"哔哩",
 			"name":"哔哩[影视专用]",
 			"type":3,
-			"jar":"https://jihulab.com/qcfree/yyfx/-/raw/main/f.jar",
+			"jar":"./jar/f.jar",
 			"api":"csp_Bili",
 			"ext":{"type":"抖音热歌#经典无损音乐合集#索尼音乐中国#帕梅拉#太极拳#广场舞#演唱会",
 				"cookie":""
