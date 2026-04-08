@@ -849,7 +849,7 @@
             "name": "📻广播迷|js[听]",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/广播迷.js"
+            "ext": "./js/广播迷FM.js"
         },
         {
             "key": "蜻蜓FM",
