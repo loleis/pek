@@ -1,3 +1,5 @@
+
+
 {
     "spider": "./lib/bdb.png",
     "logo": "./logo.gif",
@@ -37,6 +39,30 @@
             "logo": "https://epg.iill.top/logo/{name}.png",
             "timeout": 10,
             "playerType": 2
+        },
+        {
+            "name": "📡虎牙",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+            "ua": ""
+        },
+        {
+            "name": "📡斗鱼",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+            "ua": ""
+        },
+        {
+            "name": "📡YY",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+            "ua": ""
+        },
+        {
+            "name": "📡BL",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/bililive.m3u",
+            "ua": ""
         }
     ],
     "sites": [
