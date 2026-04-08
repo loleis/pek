@@ -148,7 +148,7 @@
 		{"key":"boosj_open","name":"童趣[cat]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/boosj_open.js"},
 {"key":"tuxiaobei_open","name":"兔小贝[cat]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/tuxiaobei_open.js"},
 {"key":"ubestkid_open","name":"贝乐虎[cat]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/ubestkid_open.js"},
-		{"key":"drpy_js_DJ音乐","name":"音频 | DJ音乐[听]","type":3,"api":"./lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/DJ音乐.js","playerType":"2"},
+		{"key":"drpy_js_DJ音乐","name":"音频 | DJ音乐[听]","type":3,"api":"./js/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/DJ音乐.js","playerType":"2"},
 		{
             "key": "爱玩音乐[听]",
             "name": "爱玩音乐|js[听]",
