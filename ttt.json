@@ -139,6 +139,27 @@
             "ext": "./js/番茄小说[书].js"
         },
 		{
+            "key": "七猫小说[书]",
+            "name": "七猫小说|js[书]",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/七猫小说[书].js"
+        },
+		{
+            "key": "灯笔小说[书]",
+            "name": "灯笔小说|js[书]",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/灯笔小说[书].js"
+        },
+		{
+            "key": "爱玩音乐[听]",
+            "name": "爱玩音乐|js[tin]",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/爱玩音乐.js"
+        },
+		{
             "key": "荐片采集",
             "name": "荐片采集",
             "type": 1,
