@@ -131,7 +131,13 @@
             "api": "./js/drpy2.min.js",
             "ext": "./js/哔哩影视.js"
         },
-		
+		{
+            "key": "番茄小说[书]",
+            "name": "番茄小说|js[书]",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/番茄小说[书].js"
+        },
 		{
             "key": "荐片采集",
             "name": "荐片采集",
