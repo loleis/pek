@@ -125,16 +125,12 @@
             }
         },
 			{
-			"key": "hipy_js_多多影音",
-			"name": "多多影音[TV]",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./js/多多影音.js"
-		},
+            "key": "☁️云看",
+            "name": "☁️云看|[js]",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/哔哩影视.js"
+        },
         {
             "name": "📁本地文件|[安]",
             "key": "📁本地文件",
