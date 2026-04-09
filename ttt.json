@@ -181,6 +181,16 @@
 			"order_num": 0,
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/种子音乐[听].js"
 		},
+		{
+			"key": "Yinyuetai",
+			"name": "音悦台",
+			"type": 3,
+			"jar": "./jar/f.jar",
+			"api": "csp_Yinyuetai",
+			"searchable": 1,
+			"changeable": 0,
+			"order_num": 9999
+		},
 {
 			"key": "hipy_js_PTT[优]",
 			"name": "PTT[优](drpy_t3)",
