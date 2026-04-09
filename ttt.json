@@ -233,7 +233,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/有声绘本网[听].js"
+			"ext": "./js/有声绘本网[听].js"
 		},
 		{
             "key": "狗狗音乐[听]",
@@ -243,10 +243,10 @@
             "ext": "./js/狗狗音乐[听].js"
         },
 		{
-            "key": "狗狗音乐[听]",
-            "name": "狗狗音乐|js[听]",
+            "key": "狗狗音乐2[听]",
+            "name": "狗狗音乐2|js[听]",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
             "ext": "./js/狗狗音乐[听].js"
         },
 		
@@ -254,19 +254,19 @@
             "key": "网抑云[听]",
             "name": "网抑云[听]|js[听]",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
             "ext": "./js/网抑云[听].js"
         },
 		{
-            "key": "有声绘本网[听]",
-            "name": "有声绘本网|js[听]",
+            "key": "有声绘本网2[听]",
+            "name": "有声绘本网2|js[听]",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/有声绘本网[听].js"
         },
 		{
-            "key": "博看听书[听]",
-            "name": "博看听书[听]|js[听]",
+            "key": "博看听书2[听]",
+            "name": "博看听书2[听]|js[听]",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/博看听书[听].js"
