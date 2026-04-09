@@ -160,6 +160,62 @@
 {"key":"ubestkid_open","name":"贝乐虎[cat]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/ubestkid_open.js"},
 		{"key":"drpy_js_DJ音乐","name":"音频 | DJ音乐[听]","type":3,"api":"./js/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/DJ音乐.js","playerType":"2"},
 		{
+			"key": "hipy_js_顶点小说2[书]",
+			"name": "顶点小说2[书](drpy_t3)",
+			"type": 3,
+			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/顶点小说2[书].js"
+		},
+{
+			"key": "hipy_js_种子音乐[听]",
+			"name": "种子音乐[听](drpy_t3)",
+			"type": 3,
+			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/种子音乐[听].js"
+		},
+{
+			"key": "hipy_js_PTT[优]",
+			"name": "PTT[优](drpy_t3)",
+			"type": 3,
+			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/PTT[优].js"
+		},
+{
+			"key": "hipy_js_TVB云播",
+			"name": "TVB云播(drpy_t3)",
+			"type": 3,
+			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/TVB云播.js"
+		},
+{
+			"key": "hipy_js_有声绘本网[听]",
+			"name": "有声绘本网[听](drpy_t3)",
+			"type": 3,
+			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/有声绘本网[听].js"
+		},
+		
+		{
             "key": "爱玩音乐[听]",
             "name": "爱玩音乐|js[听]",
             "type": 3,
