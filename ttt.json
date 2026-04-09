@@ -174,7 +174,8 @@
 			"key": "hipy_js_顶点小说2(drpy_t3)[书]",
 			"name": "顶点小说2[书]",
 			"type": 3,
-			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+			//"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -228,12 +229,12 @@
 			"key": "hipy_js_有声绘本网[听]",
 			"name": "有声绘本网[听](drpy_t3)",
 			"type": 3,
-			"api": "./js/drpy2.min.js",
+			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./js/有声绘本网[听].js"
+			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/有声绘本网[听].js"
 		},
 		{
             "key": "狗狗音乐[听]",
@@ -262,7 +263,7 @@
             "name": "有声绘本网2|js[听]",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/有声绘本网[听].js"
+            "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/有声绘本网[听].js"
         },
 		{
             "key": "博看听书2[听]",
