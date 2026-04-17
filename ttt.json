@@ -88,6 +88,14 @@
             "api": "./js/drpy2.min.js",
             "ext": "./js/豆瓣[官].js"
         },
+		{
+            "key": "七猫短剧[短]",
+            "name": "七猫短剧[短]",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/七猫短剧[短].js"
+        },
+		
 	  {
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
